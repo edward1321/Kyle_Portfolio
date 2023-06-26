@@ -12,6 +12,8 @@
 
 **The final XGBoost model operates at about 89% accuracy.**
 
+![alt text](images/CC.png)
+
 # [Project 2: Machine Learing Loan Status Project in R](https://github.com/edward1321/LoanStatus_FinalProject)
 - Within my graduate machine learning class, our final project was to act a consultant for a fictional financial institution
 - Tasked with building several machine learning models to predict loan status on customers and identify the most important factors
@@ -23,6 +25,8 @@
 
 **The final XGBoost model operates at about 96% accuracy, significantly higher than the other models tested.**
 
+![alt text](images/loan.png)
+
 # [Project 3: Wake Forest Baseball Team Predictive Swing Modeling Project in R](https://github.com/edward1321/XGBoost_Swing_Model)
 - Used "TrackMan" ball flight metrics from SEC and ACC games over the last 4 years
 - Created a logistic regression, random forest, and XGBoost model
@@ -31,6 +35,8 @@
 - Used by the coaching staff during bullpen sessions to evaluate a pitcher's performance
 
 **The final XGBoost model operates at about 89% accuracy.**
+
+![alt text](images/swing1.png)
 
 # [Project 4: Wake Forect Baseball Team Automated Quality At Bat Tracker in R](https://github.com/edward1321/Automated_Quality_At_Bat)
 - Used "TrackMan" ball flight metrics from SEC and ACC games over the last 4 years
