@@ -1,6 +1,13 @@
 <h1 align="center">Kyle Phillips' Portfolio</h1>
 <h2 align="center">Data Science/Data Analysis</h2>
 
+<p align="center">
+  <img width="300" src="images/1634603001658.jpg">
+</p>
+
+<h2 align="center">About Me</h2> 
+Hello! Thank you for viewing my portfolio. Just to give a brief introduction, my name is Kyle Phillips and I am from Parsippany NJ. I recently gratuated from Wake Forest with a Master of Science degree in Business Analytics, and in May of 2022, I graduated from Susquehanna University with a Bachelor of Science in Business Data Science and Analytics with a minor in Sports Media. Some of the most recent experience I have is working as a data analyst for the Wake Forest Basball Analytics Team, as well as a practicum consultant with Macy's. Below I have outlined and provided links to some of my independent and school coding projects. 
+
 # [Project 1: Wake Forest Baseball Team Predictive Umpire Accuracy Model in R](https://github.com/edward1321/CorrectCall_XGBoost_Model)
 - Used "TrackMan" ball flight metrics from SEC and ACC games over the last 4 years
 - Was tasked by the coaching staff to create an expected umpire accuracy model
