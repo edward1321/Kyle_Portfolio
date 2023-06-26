@@ -1,5 +1,5 @@
 <h1 align="center">Kyle Phillips' Portfolio</h1>
-<h2 align="center">Data Science/Data Analysis</h2>
+<h2 align="center">kephillips1321@gmail.com | 973-738-2482</h2>
 
 <p align="center">
   <img width="300" src="images/1634603001658.jpg">
