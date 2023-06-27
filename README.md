@@ -21,7 +21,7 @@ Hello! Thank you for viewing my portfolio. Just to give a brief introduction, my
 
 ![alt text](images/CC.png)
 
-# [Project 2: Machine Learing Loan Status Project in R](https://github.com/edward1321/LoanStatus_FinalProject)
+# [Project 2: Machine Learning Loan Status Project in R](https://github.com/edward1321/LoanStatus_FinalProject)
 - Within my graduate machine learning class, our final project was to act a consultant for a fictional financial institution
 - Tasked with building several machine learning models to predict loan status on customers and identify the most important factors
 - Given a training(∼30,000 rows) and holdout set(∼13,000 rows) to first build the model and then predict on the holdout set
