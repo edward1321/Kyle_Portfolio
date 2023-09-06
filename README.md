@@ -48,11 +48,11 @@ Hello! Thank you for viewing my portfolio. Just to give a brief introduction, my
 # [Project 4: Wake Forect Baseball Team Automated Quality At Bat Tracker in R](https://github.com/edward1321/Automated_Quality_At_Bat)
 - Used "TrackMan" ball flight metrics from SEC and ACC games over the last 4 years
 - Wrote code to automate how the coaching staff tracks quality at bats in games and scrimmages
-- A binary variable will be outputted to the calculate a quality at bat percentage
+- A binary variable will be outputted and used to calculate a quality at bat percentage
 - The percentage for each player is then used in the team's R Shiny app for player evaluation
 
 # [Project 5: Wake Forest Baseball Team Automated Pitch Classifier in R](https://github.com/edward1321/Pitch_Classification)
 - Used "TrackMan" ball flight metrics from SEC and ACC games over the last 4 years
 - Wrote code to automate how a pitch is classified based on several ball flight metrics
-- The new variable used within several models created by the team for pitching value purposes
-- Code was needed due to insufficient classification by away teams, and is a fool proof way of classifying pitches
+- The new variable was used within several different models for pitching value purposes
+- Code was needed due to incorrect pitch tagging processes by other teams and is a fool proof way of classifying pitches
